@@ -1,0 +1,1 @@
+on_ground = place_meeting(x, y+1, tile)
